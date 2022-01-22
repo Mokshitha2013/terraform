@@ -1,0 +1,8 @@
+compartment_id = "ocid1.compartment.oc1..aaaaaaaa6z6rcdlww4rlfe5jp4haog5ashccfpjwpn7ntsets665rmh6b3uq"
+db_name		= "OMLLABS"
+admin_password 	= "OML2test@12345"
+db_version 	= "19c"
+db_workload	= "DW"
+is_free_tier	= "true"
+license_model   = "LICENSE_INCLUDED"
+display_name = "OML LAB"
